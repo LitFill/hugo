@@ -41,8 +41,6 @@ checkboxes
  [] item #
  [x] item terventang;> [!WARNING]
  > khflskdjfs
-sdfkjsdlfkjs
-sdfkjsdlfksj
 
 
 > [!WARNING]
