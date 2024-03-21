@@ -1,0 +1,4 @@
+baseURL = 'https://litfill.github.io/hugo/'
+languageCode = 'id-ID'
+title = 'Percobaan Site Hugo'
+theme = 'ananke'

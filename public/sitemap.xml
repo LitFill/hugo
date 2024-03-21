@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://litfill.github.io/hugo/</loc>
+    <lastmod>2024-03-21T22:13:58+07:00</lastmod>
+  </url><url>
+    <loc>https://litfill.github.io/hugo/posts/</loc>
+    <lastmod>2024-03-21T22:13:58+07:00</lastmod>
+  </url><url>
+    <loc>https://litfill.github.io/hugo/categories/</loc>
+  </url><url>
+    <loc>https://litfill.github.io/hugo/tags/</loc>
+  </url>
+</urlset>
