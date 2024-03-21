@@ -1,7 +1,7 @@
 +++
 title = 'Postingan Pertama'
 date = 2024-03-21T22:13:58+07:00
-draft = true
+draft = false
 +++
 
 ## Pengenalan
